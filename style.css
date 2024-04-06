@@ -1,0 +1,49 @@
+body{
+	font-family: monospace;
+	-webkit-touch-callout: none;
+  	-webkit-user-select: none;
+  	-khtml-user-select: none;
+  	-moz-user-select: none;
+  	-ms-user-select: none;
+  	user-select: none;
+}
+ht{
+	color: black;
+	border-style: solid;
+}
+div.container{
+	margin: auto;
+	width: 710px;
+}
+div.screen{
+	position: absolute;
+}
+div.main{
+	width: 550px;
+	height: 200px;
+	background-color: #77ef86;
+	border: solid black 2px;
+}
+div.options{
+	width: 550px;
+	height: 50px;
+	background-color: #77ef86;
+	border: solid black 2px;
+	margin-top: 5px;
+	text-align: center;
+	font-size: xx-large;
+	cursor: pointer;
+}
+div.stats{
+	width: 150px;
+	height: 435px;
+	background-color: #77ef86;
+	border: solid black 2px;
+	margin-left: 560px;
+}
+div.texto{
+	width: 100%;
+	margin-top: 20px;
+	text-align: center;
+	font-size: x-large;
+}
